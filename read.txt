@@ -1,0 +1,11 @@
+user
+  user_id
+  fullname
+  email
+  contact
+  password
+
+coupons
+   coupon_id
+   coupon_code
+   coupon_amount
